@@ -1,2 +1,7 @@
-# creditcardfraud
-Credit Card Fraud Detection: Leveraging Machine Learning algorithms to detect and prevent fraudulent transactions in real-time. Our repository offers a comprehensive suite of models, including Random Forest, Logistic Regression, and Neural Networks, coupled with robust preprocessing techniques and anomaly detection methods. 
+# Credit Card Fraud Detection using Machine Learning
+
+This project aims to build a model to detect fraudulent credit card transactions in real-time. The dataset used in this project contains transactions made by credit cards in September 2023 by European cardholders.
+
+## Introduction
+
+Credit card fraud is a significant probblem in the financial industry. Detecting fraudulent transactions accurately is crucial in minimizing financial losses and protecting customers. This project uses machine learning techniques to build a robust fraud detection system.
