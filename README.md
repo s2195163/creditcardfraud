@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection using Machine Learning
-![Fraud Detection](images/fraud_detection.png)
+![Fraud Detection](images/Fraud_detection.png)
 
 This project aims to build a model to detect fraudulent credit card transactions in real-time. The dataset used in this project contains transactions made by credit cards in September 2023 by European cardholders.
 
